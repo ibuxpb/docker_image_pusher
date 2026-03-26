@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #debian
 #almalinux:latest
-louislam/uptime-kuma:latest
+louislam/uptime-kuma:2
